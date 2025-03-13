@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mecinsusi
 - 👀 I’m interested in Website Development
 - 📫 How to reach me susilawatibudiutami@gmail.com
-- My website: mecinsusi.dev
+- My website: https://mecinsusi.dev/
 
 <!---
 mecinsusi/mecinsusi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
